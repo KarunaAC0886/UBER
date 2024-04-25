@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tripspage  renders correctly 1`] = `
+<View
+  style={
+    {
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#000000",
+        "height": "13%",
+        "justifyContent": "space-between",
+        "paddingBottom": "5%",
+        "paddingHorizontal": "6%",
+        "paddingVertical": "2%",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <FontAwesome5
+        name="arrow-left"
+        style={
+          {
+            "color": "#ffffff",
+            "fontSize": 20,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        {
+          "color": "#ffffff",
+          "fontFamily": "Roboto",
+          "fontSize": 36,
+        }
+      }
+    >
+      Your Trips
+    </Text>
+  </View>
+</View>
+`;

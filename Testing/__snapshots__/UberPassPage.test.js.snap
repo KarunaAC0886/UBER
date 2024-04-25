@@ -1,0 +1,570 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UberPassPage UberPassPage page renders correctly 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#1A1A1A",
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#000000",
+        "height": "13%",
+        "justifyContent": "space-between",
+        "paddingBottom": "5%",
+        "paddingHorizontal": "6%",
+        "paddingVertical": "2%",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <FontAwesome5
+        name="arrow-left"
+        style={
+          {
+            "color": "#ffffff",
+            "fontSize": 20,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        {
+          "color": "#ffffff",
+          "fontFamily": "Roboto",
+          "fontSize": 36,
+        }
+      }
+    >
+      Uber Pass
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "flex": 0,
+        "flexDirection": "column",
+        "height": "100%",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": 0,
+          "flexDirection": "column",
+          "height": "25%",
+          "justifyContent": "space-around",
+          "paddingHorizontal": "6%",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "color": "#EDF6FF",
+              "fontSize": 48,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          Uber Pass
+        </Text>
+        <Text
+          style={
+            {
+              "color": "#EDF6FF",
+              "fontSize": 24,
+            }
+          }
+        >
+          1 week free - $24.99/mo
+        </Text>
+        <Text
+          style={
+            {
+              "color": "#979797",
+              "fontSize": 18,
+            }
+          }
+        >
+          $24.99/mo 1 week free
+        </Text>
+      </View>
+      <View>
+        <Text
+          style={
+            {
+              "color": "#EDF6FF",
+              "fontSize": 17,
+            }
+          }
+        >
+          Go more places and get more local favorites, all with one membership
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "borderBottomColor": "#979797",
+          "borderBottomWidth": 0.2,
+          "height": "40%",
+          "justifyContent": "space-around",
+          "paddingHorizontal": "6%",
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "flex": 0,
+            "flexDirection": "row",
+            "height": "30%",
+            "justifyContent": "center",
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            {
+              "testUri": "../../../assets/savingsEveryride.png",
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 0,
+              "flexDirection": "column",
+              "height": "100%",
+              "paddingLeft": "4%",
+              "width": "85%",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "#EDF6FF",
+                "fontSize": 18,
+                "fontWeight": "500",
+              }
+            }
+          >
+            Savings on every ride
+          </Text>
+          <Text
+            style={
+              {
+                "color": "#DADADA",
+                "fontSize": 14,
+                "fontWeight": "400",
+                "paddingTop": "1%",
+              }
+            }
+          >
+            Uber Pass has you covered-10% off every UberX,UberL and Comfort ride, 15% off every black,Premier, and SUV ride in the US.
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "flex": 0,
+            "flexDirection": "row",
+            "height": "30%",
+            "justifyContent": "center",
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            {
+              "testUri": "../../../assets/freeDeliver.png",
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 0,
+              "flexDirection": "column",
+              "height": "100%",
+              "paddingLeft": "4%",
+              "width": "85%",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "#EDF6FF",
+                "fontSize": 18,
+                "fontWeight": "500",
+              }
+            }
+          >
+            Free delivery on Uber Eats
+          </Text>
+          <Text
+            style={
+              {
+                "color": "#DADADA",
+                "fontSize": 14,
+                "fontWeight": "400",
+                "paddingTop": "1%",
+              }
+            }
+          >
+            Get a $0 Delivery Fee + 5% off orders over $15. Look for the tickets to save at more than 13000 restaurants in your area.
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "flex": 0,
+            "flexDirection": "row",
+            "height": "30%",
+            "justifyContent": "center",
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            {
+              "testUri": "../../../assets/Cancelanytime.png",
+            }
+          }
+        />
+        <View
+          style={
+            {
+              "flex": 0,
+              "flexDirection": "column",
+              "height": "100%",
+              "paddingLeft": "4%",
+              "width": "85%",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "#EDF6FF",
+                "fontSize": 18,
+                "fontWeight": "500",
+              }
+            }
+          >
+            Cancel anytime
+          </Text>
+          <Text
+            style={
+              {
+                "color": "#DADADA",
+                "fontSize": 14,
+                "fontWeight": "400",
+                "paddingTop": "1%",
+              }
+            }
+          >
+            Cancel your subscription anytime-no penalties or fees.
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "borderBottomColor": "#979797",
+          "borderBottomWidth": 0.2,
+          "height": "10%",
+          "justifyContent": "center",
+          "paddingHorizontal": "6%",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "flex": 0,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "color": "#ffffff",
+              "fontSize": 18,
+            }
+          }
+        >
+          Learn More
+        </Text>
+        <FontAwesome5
+          name="greater-than"
+          style={
+            {
+              "color": "#ffffff",
+              "fontSize": 18,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "height": "12%",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "borderColor": "#EDF6FF",
+            "borderWidth": 1,
+            "height": 40,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 300,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "color": "#EDF6FF",
+              "fontSize": 24,
+            }
+          }
+        >
+          Get 1 week free
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

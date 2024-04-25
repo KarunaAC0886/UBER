@@ -1,0 +1,313 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login component renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "backgroundColor": "#1A1A1A",
+      "height": undefined,
+      "paddingHorizontal": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <RCTScrollView>
+    <View>
+      <View
+        style={
+          {
+            "height": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "marginTop": "10%",
+            }
+          }
+        >
+          <Text
+            onPress={[Function]}
+            style={
+              {
+                "color": "#535AFF",
+                "fontSize": 20,
+                "paddingLeft": undefined,
+              }
+            }
+          >
+            DO THIS LATER
+          </Text>
+        </View>
+        <View>
+          <Text
+            style={
+              {
+                "color": "#EDF6FF",
+                "fontSize": 20,
+                "marginTop": undefined,
+              }
+            }
+          >
+            Select your preferred payment method
+          </Text>
+        </View>
+        <View
+          style={
+            {
+              "flex": 0,
+              "flexDirection": "column",
+              "marginTop": undefined,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "display": "flex",
+                "flexDirection": "row",
+                "marginVertical": undefined,
+                "opacity": 1,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://s3-alpha-sig.figma.com/img/7bd4/edd1/0897443b5159bfc2104d491257b867fe?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MGY~1Lte2orCR4k-eiB-0FjTfypl3cei-jy1Q64XYZ3-MbRkGHXorufFQlLbT5FPWEuhcpszaMJ3o7gN3T-FQp4RDh6gNmm678OOR0h~AYfFfB3cX4JedJnPhpzUJ8R02UCPCABqfCw6WmGuH4yLVzHCjozbDYfG7jRmaIYsxRoBmhvFL1HzXoqXHa7iLyuqh9Z9UExlk8jwaLgXxygRNTDAHsIWkNpROp28v0S~jJ8OYFjY4p4I9d9i36MXZ5Mdc0UeWV1lKidmxTm6uuFGYnBeJ~SH1wO8MuamN08ygnp8dOk9PesaJzvLZ9B0dLRfxW3hPZY3hGvatNofKpVDtQ__",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "#EDF6FF",
+                  "fontSize": 20,
+                  "left": 50,
+                  "top": 15,
+                }
+              }
+            >
+              Credit or Debit card
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "display": "flex",
+                "flexDirection": "row",
+                "marginVertical": undefined,
+                "opacity": 1,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://s3-alpha-sig.figma.com/img/2cac/552f/96f3744b287b1d83d688b3f47d7e333e?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lTvDUrRJTOverPDburlrpJWznWCNpVLS9l1RERD9dvLYtw6mKWAk4gn3P7-xPiatLPKRe9cPlj4medTUMI~z9ZNq76CRL2chf9bvo2jce4JKX9bpSV89NvMn42qyxqTVNf4NEncr8vKpvC0gC7bfszJSNGCkUtyTv0GcUoqaZZl2dmiin4RMSs2FQTem10GkdbmjfE8ekZmnRd6VXG2WWMmm4YRt72P~QWPIRHNwTvJD08FulgKLs2KiDykCAWZiTAFUq3VR6bVrVFsS37MlA7YmOPNWcqQM2eGCOiIa-uXaIJUs-AFceKhVAxGNVxk6eh-~GyIvaz9toJoWcTpU5w__",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "#EDF6FF",
+                  "fontSize": 20,
+                  "left": 50,
+                  "top": 15,
+                }
+              }
+            >
+              Paytm
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "display": "flex",
+                "flexDirection": "row",
+                "marginVertical": undefined,
+                "opacity": 1,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://s3-alpha-sig.figma.com/img/c8dc/3450/86bc810dfb4398065a9e7efb1092d155?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aNP8AYxxIOZ6t~MS123mQ8s33kNbhBg00kygNVmmcFmNNSfmSJCJzYVkmYrRDmkU9ZqyaoMBBd8g3FjfmNZ87v4WXm8QFWWOsK9QYHenij-KPkY0EaTFTCAs6oA7RwPkLXKcQF8PcGHGlvlj0K~cLghUXq93Enon75DGsxX0GvlaXoo~oQYhkj0gOLVTXZxbM~xgmAuGOMznAiqoTNdyAPVtCYu~0B5GSQaRcGfREvmpblyB85A-YV~OiZ1Mllnq3TP-PmeqZ8zlYLd-lBGHjoLYy8xtED5vHjm4W3Psoay2PtgMnc37YYe-yxq8HblzcKAvMvqSmQcEteEiZ~H0YA__",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "#EDF6FF",
+                  "fontSize": 20,
+                  "left": 50,
+                  "top": 15,
+                }
+              }
+            >
+              Cash
+            </Text>
+          </View>
+        </View>
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "borderColor": "#EDF6FF",
+              "borderRadius": 2,
+              "borderWidth": 1,
+              "height": 58,
+              "justifyContent": "center",
+              "marginTop": undefined,
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            onPress={[Function]}
+            style={
+              {
+                "color": "white",
+                "fontSize": 21,
+                "textAlign": "center",
+              }
+            }
+          >
+            Next
+          </Text>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;

@@ -1,0 +1,207 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`First component renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "backgroundColor": "#1A1A1A",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "height": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "backgroundColor": "#1A1A1A",
+          "height": "100%",
+          "justifyContent": "center",
+          "paddingLeft": "6%",
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+      >
+        <AntDesign
+          name="arrowleft"
+          style={
+            {
+              "color": "#ffffff",
+              "fontSize": 23,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "height": undefined,
+        "paddingHorizontal": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#EDF6FF",
+          "fontSize": 30,
+          "height": 33,
+        }
+      }
+    >
+      What's Your Name?
+    </Text>
+    <View
+      style={
+        {
+          "flex": 0,
+          "flexDirection": "row",
+          "marginTop": undefined,
+        }
+      }
+    >
+      <View>
+        <TextInput
+          onChangeText={[Function]}
+          placeholder="First name"
+          style={
+            {
+              "borderBottomWidth": 1,
+              "borderColor": "#EDF6FF",
+              "color": "#EDF6FF",
+              "fontSize": 20,
+              "width": undefined,
+            }
+          }
+          value=""
+        />
+        <Text
+          style={
+            {
+              "color": "red",
+              "fontSize": 16,
+            }
+          }
+        />
+      </View>
+      <View>
+        <TextInput
+          onChangeText={[Function]}
+          placeholder="Last name"
+          style={
+            {
+              "borderBottomWidth": 1,
+              "borderColor": "#EDF6FF",
+              "color": "#EDF6FF",
+              "fontSize": 20,
+              "marginLeft": "5%",
+              "width": undefined,
+            }
+          }
+          value=""
+        />
+        <Text
+          style={
+            {
+              "color": "red",
+              "fontSize": 16,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "borderColor": "#EDF6FF",
+          "borderRadius": 2,
+          "borderWidth": 1,
+          "height": 58,
+          "justifyContent": "center",
+          "marginTop": undefined,
+          "opacity": 1,
+          "width": undefined,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "white",
+            "fontSize": 21,
+            "left": 150,
+          }
+        }
+      >
+        Next
+      </Text>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

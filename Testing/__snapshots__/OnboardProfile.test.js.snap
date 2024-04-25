@@ -1,0 +1,295 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Onboard Profile component renders correctly 1`] = `
+<RCTScrollView
+  style={
+    {
+      "backgroundColor": "red",
+      "height": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        {
+          "height": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "backgroundColor": "#1A1A1A",
+            "height": "100%",
+            "justifyContent": "center",
+            "paddingLeft": "6%",
+            "width": "100%",
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+        >
+          <AntDesign
+            name="arrowleft"
+            style={
+              {
+                "color": "#ffffff",
+                "fontSize": 23,
+              }
+            }
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "backgroundColor": "#1A1A1A",
+          "height": undefined,
+          "paddingHorizontal": undefined,
+          "paddingTop": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flex": 0,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Image
+          source={
+            {
+              "testUri": "../../../assets/profile.png",
+            }
+          }
+          style={
+            {
+              "height": 130,
+              "width": 130,
+            }
+          }
+        />
+      </View>
+      <View>
+        <Text
+          style={
+            {
+              "color": "#EDF6FF",
+              "fontSize": 20,
+              "height": 97,
+              "lineHeight": 23.14,
+              "marginTop": undefined,
+              "width": 341,
+            }
+          }
+        >
+          By tapping the arrow below, you agree to Uber’s Terms of Use and acknowledge that you have read the Privacy Policy.
+        </Text>
+      </View>
+      <View>
+        <Text
+          style={
+            {
+              "color": "#EDF6FF",
+              "fontSize": 16,
+              "lineHeight": 17.58,
+              "marginTop": undefined,
+            }
+          }
+        >
+          Check the box to indicate that you are atleast 18 years of age, agree to the
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#535AFF",
+                  "fontSize": 16,
+                  "lineHeight": 17.58,
+                  "paddingLeft": 2,
+                  "top": undefined,
+                }
+              }
+            >
+              Terms & Conditions
+            </Text>
+          </View>
+            and acknowledge the 
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#535AFF",
+                  "fontSize": 16,
+                  "lineHeight": 17.58,
+                  "paddingLeft": 2,
+                  "top": undefined,
+                }
+              }
+            >
+               Privacy Policy
+            </Text>
+          </View>
+          .
+        </Text>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "backgroundColor": "#000000",
+            "borderColor": "#EDF6FF",
+            "borderRadius": 2,
+            "borderWidth": 1,
+            "height": 58,
+            "justifyContent": "center",
+            "marginTop": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "color": "white",
+              "fontSize": 21,
+              "left": 150,
+            }
+          }
+        >
+          Next
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

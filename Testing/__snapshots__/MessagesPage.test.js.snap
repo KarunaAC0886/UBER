@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessagesPage Messages Page renders correctly 1`] = `
+<View
+  style={
+    {
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#000000",
+        "height": "13%",
+        "justifyContent": "space-between",
+        "paddingBottom": "5%",
+        "paddingHorizontal": "6%",
+        "paddingVertical": "2%",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <FontAwesome5
+        name="arrow-left"
+        style={
+          {
+            "color": "#ffffff",
+            "fontSize": 20,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        {
+          "color": "#ffffff",
+          "fontFamily": "Roboto",
+          "fontSize": 36,
+        }
+      }
+    >
+      Messages
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "backgroundColor": "#1A1A1A",
+        "flex": 0,
+        "flexDirection": "column",
+        "height": "90%",
+        "paddingHorizontal": "6%",
+        "paddingTop": "15%",
+        "paddingVertical": "6%",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "height": "40%",
+          "justifyContent": "center",
+          "width": "100%",
+        }
+      }
+    >
+      <Image
+        source={
+          {
+            "testUri": "../../../assets/Group.png",
+          }
+        }
+        style={
+          {
+            "height": 200,
+            "width": 290,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flex": 0,
+          "flexDirection": "column",
+          "height": "40%",
+          "justifyContent": "flex-start",
+          "paddingTop": "10%",
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#ffffff",
+            "fontSize": 20,
+          }
+        }
+      >
+        You are all up to date!
+      </Text>
+      <Text
+        style={
+          {
+            "color": "#ffffff",
+            "fontSize": 18,
+            "paddingTop": "4%",
+            "textAlign": "center",
+          }
+        }
+      >
+        No new messages available at the moment, come back soon to discover new offers
+      </Text>
+    </View>
+  </View>
+</View>
+`;

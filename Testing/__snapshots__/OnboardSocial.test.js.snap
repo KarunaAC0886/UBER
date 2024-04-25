@@ -1,0 +1,291 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Social component renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "backgroundColor": "#1A1A1A",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "height": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "backgroundColor": "#1A1A1A",
+          "height": "100%",
+          "justifyContent": "center",
+          "paddingLeft": "6%",
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+      >
+        < AntDesign
+          name="arrowleft"
+          style={
+            {
+              "color": "#ffffff",
+              "fontSize": 23,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <RCTScrollView
+    style={
+      {
+        "height": undefined,
+        "paddingHorizontal": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View>
+      <Text
+        style={
+          {
+            "color": "#EDF6FF",
+            "fontSize": 30,
+          }
+        }
+      >
+        Choose an Account
+      </Text>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "flex": 0,
+            "flexDirection": "row",
+            "marginVertical": undefined,
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            {
+              "testUri": "../../../assets/facebook-logo-3.png",
+            }
+          }
+          style={
+            {
+              "height": 30,
+              "marginLeft": 15,
+              "marginRight": 50,
+              "width": 40,
+            }
+          }
+        />
+        <Text
+          style={
+            {
+              "color": "white",
+              "fontSize": 24,
+              "height": 33,
+              "width": 409,
+            }
+          }
+        >
+          FaceBook
+        </Text>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "flex": 0,
+            "flexDirection": "row",
+            "marginVertical": undefined,
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          source={
+            {
+              "testUri": "../../../assets/Google-Logo-PNG-Image.png",
+            }
+          }
+          style={
+            {
+              "height": 30,
+              "marginLeft": 15,
+              "marginRight": 50,
+              "width": 40,
+            }
+          }
+        />
+        <Text
+          style={
+            {
+              "color": "white",
+              "fontSize": 24,
+              "height": 33,
+              "width": 409,
+            }
+          }
+        >
+          Google
+        </Text>
+      </View>
+      <View>
+        <Text
+          style={
+            {
+              "color": "#EDF6FF",
+              "fontSize": 14,
+              "lineHeight": 16.41,
+            }
+          }
+        >
+          By clicking on a social option you may recieve an SMS for verification. Message and data rates may apply.
+        </Text>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "borderColor": "#EDF6FF",
+            "borderRadius": 2,
+            "borderWidth": 1,
+            "height": 58,
+            "justifyContent": "center",
+            "marginTop": undefined,
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "color": "white",
+              "fontSize": 21,
+              "left": 150,
+            }
+          }
+        >
+          Next
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;
